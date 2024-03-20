@@ -5,6 +5,7 @@ output=$"# Easy
 for name in "./Easy"/*; do
     name=$(echo "$name" | sed 's/\.\/Easy\///')
     output+="$name
+
 "
     problems=$((problems+1))
 done
@@ -16,6 +17,7 @@ output+=$"
 for name in "./Medium"/*; do
     name=$(echo "$name" | sed 's/\.\/Medium\///')
     output+="$name
+
 "
     problems=$((problems+1))
 done
@@ -27,6 +29,7 @@ output+=$"
 for name in "./Hard"/*; do
     name=$(echo "$name" | sed 's/\.\/Hard\///')
     output+="$name
+
 "
     problems=$((problems+1))
 done
