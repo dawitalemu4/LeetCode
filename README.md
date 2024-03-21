@@ -35,6 +35,8 @@ Search Insert Position.py
 
 Two Sum.py
 
+Unique Number of Occurrences.py
+
 Valid Anagram.py
 
 Valid Palindrome.py
@@ -72,4 +74,4 @@ Two Sum II.py
 *
 
 
-34 problems solved
+35 problems solved

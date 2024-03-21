@@ -1,3 +1,4 @@
+#!/bin/bash
 problems=0
 output=$"# Easy
 "
