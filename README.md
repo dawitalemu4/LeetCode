@@ -23,6 +23,8 @@ Majority Element.py
 
 Merge Sorted Array.py
 
+Palindrome Number.py
+
 Remove Duplicates from Sorted Array.py
 
 Remove Element.py
@@ -74,4 +76,4 @@ Two Sum II.py
 *
 
 
-35 problems solved
+36 problems solved
